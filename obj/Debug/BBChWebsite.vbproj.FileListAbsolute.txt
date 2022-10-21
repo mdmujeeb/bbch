@@ -41,3 +41,6 @@ D:\My Data\My Work\BBCh Website\BBChWebsite\obj\Debug\BBChWebsite.pdb
 D:\BBCh Website\BBChWebsite\bin\BBChWebsite.dll.config
 D:\BBCh Website\BBChWebsite\obj\Debug\BBChWebsite.vbprojAssemblyReference.cache
 D:\BBCh Website\BBChWebsite\obj\Debug\BBChWebsite.vbproj.CoreCompileInputs.cache
+C:\Promise\My Data\Events\BBCh\BBCh Website GitHub\bbch\obj\Debug\BBChWebsite.dll
+C:\Promise\My Data\Events\BBCh\BBCh Website GitHub\bbch\obj\Debug\BBChWebsite.xml
+C:\Promise\My Data\Events\BBCh\BBCh Website GitHub\bbch\obj\Debug\BBChWebsite.pdb
