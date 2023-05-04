@@ -213,6 +213,7 @@
     <Content Include="BBCh23Race10.htm" />
     <Content Include="BBChLogoCompetition2015.htm" />
     <Content Include="BBChMerchandise.htm" />
+    <Content Include="BBChSeasonPoints.htm" />
     <Content Include="BBChTeams.htm" />
     <Content Include="BBCh_Expenses.htm" />
     <Content Include="BBChCalendar.htm" />
